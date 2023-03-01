@@ -1,2 +1,2 @@
 # Circle_Of_Life
-This project is a Bayesian Network based probabilistic decision-based cat-and-mouse game. The agent tries to find the prey while  avoiding the predator.
+This project is a Bayesian Network based probabilistic decision-based cat-and-mouse game. There is a level of uncertainty involved all over in this game, and the decision-making of all the entities in this game depends on that uncertainty and how those entities assess and assimilate that uncertainty. This project has four information settings that affect how the entities calculate/evaluate the uncertainty present in this game, i.e., probabilistic information.
